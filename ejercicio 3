@@ -1,0 +1,10 @@
+proceso hipotenusatriangulorectangulo
+escribir "programa que calcula la hipotenusa de un triangulo rectangulo"
+escribir "."
+escribir "digite cateto1"
+leer cateto1
+escribir "digite cateto2"
+leer cateto2
+hipotenusa <- raiz (cateto1 * cateto1 + cateto2 * cateto2)
+escribir "la hipotenusa del triangulo rectangulo es de ", hipotenusa
+finproceso
